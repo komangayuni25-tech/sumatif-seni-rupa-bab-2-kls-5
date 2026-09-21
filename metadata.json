@@ -1,0 +1,8 @@
+{
+  "name": "SUMATIF SENI RUPA BR",
+  "description": "Aplikasi Tes Sumatif Seni Rupa Kelas 5 SD Negeri 3 Loloan Timur lingkup materi Mengeksplorasi ritme dalam objek di sekitar kita dan menggambar dengan menerapkan prinsip ritme, dilengkapi 35 soal PG & 5 PGK Kategori Benar/Salah bergambar, sinkronisasi Google Spreadsheet, dan panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
